@@ -72,6 +72,14 @@ streamlit run <app name>.py
 
 ### More references:
 
+<<<<<<< HEAD
 - markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - how to use yfinance data https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 - Github repo of Data Professor https://github.com/dataprofessor/streamlit_freecodecamp
+=======
+https://chromedriver.chromium.org/
+https://www.selenium.dev/documentation/
+https://www.youtube.com/watch?v=LQ0r_vsdqQw&t=60s
+# GIT INIT!
+# GIT INIT!
+>>>>>>> b244fea (first commit made on)
