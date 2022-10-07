@@ -18,6 +18,11 @@ tickerData = yf.Ticker(tickerSymbol)
 tickerDf = tickerData.history(period='1d', start='2010-1-1', end='2020-1-25')
 
 #see your data
-
+st.write("""
+### Closing Price of MSFT
+""")
 st.line_chart(tickerDf.Close)
+st.write("""
+### Volume Price of MSFT
+""")
 st.line_chart(tickerDf.Volume)
