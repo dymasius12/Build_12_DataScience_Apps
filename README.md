@@ -66,7 +66,7 @@ $ pip install -r requirements.txt
 PLEASE NOTE: it needs 1 command after the filename!
 
 ```
-python automate_form.py
+streamlit run <app name>.py
 ```
 
 ### More references:
