@@ -71,7 +71,5 @@ python automate_form.py
 
 ### More references:
 
-https://chromedriver.chromium.org/
-https://www.selenium.dev/documentation/
-https://www.youtube.com/watch?v=LQ0r_vsdqQw&t=60s
-# GIT INIT!
+- markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- how to use yfinance data https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
