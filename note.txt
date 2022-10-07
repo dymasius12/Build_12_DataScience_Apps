@@ -1,3 +1,4 @@
 Youtube tutorial link:
 https://www.youtube.com/watch?v=JwSS70SZdyM
 streamlit website: streamlit.io
+towards data science link for using yfinance data: https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75 
