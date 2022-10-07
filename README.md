@@ -2,7 +2,8 @@
 
 ## using Python and streamlit
 
-<p align="justify"> Hi this is code for making a data science web app using streamlit. This is the code for the tutorial by Data Professor. the tutorial can be seen at the FreeCodeCamp tutorial by clicking this link: https://www.youtube.com/watch?v=JwSS70SZdyM 
+<p align="justify"> Hi this is code for making a data science web app using streamlit. This is the code for the tutorial by Data Professor. the tutorial can be seen at the FreeCodeCamp tutorial by clicking this link: https://www.youtube.com/watch?v=JwSS70SZdyM https://github.com/dataprofessor/streamlit_freecodecamp
+
 ### What you’ll learn:
 
   ✏️ Course developed by Chanin Nantasenamat (aka Data Professor). Check out his YouTube channel for more data science tutorials: http://youtube.com/dataprofessor
@@ -25,27 +26,27 @@
 
 ⭐️ Code ⭐️
 - 💻 1. Simple Stock Pric
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_1_simple_stock_price
 - 💻 2. Simple Bioinformatics DNA Coun
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_2_simple_bioinformatics_dna
 - 💻 3. EDA Basketbal
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_3_eda_basketball
 - 💻 4. EDA Footbal
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_4_eda_football
 - 💻 5. EDA SP500 Stock Pric
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_5_eda_sp500_stock
 - 💻 6. EDA Cryptocurrenc
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_6_eda_cryptocurrency
 - 💻 7. Classification Iri
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_7_classification_iris
 - 💻 8. Classification Penguin
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_8_classification_penguins
 - 💻 9. Regression Boston Housin
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_9_regression_boston_housing
 - 💻 10. Regression Bioinformatics Solubilit
-https://github.com/dataprofessor/stre...
+https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_10_regression_bioinformatics_solubility
 - 💻 11. Deploy to Heroku
-https://github.com/dataprofessor/peng...
+
 
 ### Some Important notes:
 
@@ -73,3 +74,4 @@ streamlit run <app name>.py
 
 - markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - how to use yfinance data https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
+- Github repo of Data Professor https://github.com/dataprofessor/streamlit_freecodecamp
