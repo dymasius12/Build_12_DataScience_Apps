@@ -82,4 +82,7 @@ https://www.selenium.dev/documentation/
 https://www.youtube.com/watch?v=LQ0r_vsdqQw&t=60s
 # GIT INIT!
 # GIT INIT!
+<<<<<<< HEAD
 >>>>>>> b244fea (first commit made on)
+=======
+>>>>>>> b244fea08a36e73da95b0cd15fe262532e87826e
