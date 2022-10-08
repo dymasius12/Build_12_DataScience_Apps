@@ -3,7 +3,6 @@ import streamlit as st
 import altair as alt
 from PIL import Image
 
-<<<<<<< HEAD
 image = Image.open('dna-logo.jpeg')
 
 st.image(image, use_column_width=True)
@@ -75,7 +74,3 @@ p = p.properties(
     width=alt.Step(80)  # controls width of bar.
 )
 st.write(p)
-
-=======
-image = Image.open 
->>>>>>> b244fea08a36e73da95b0cd15fe262532e87826e
